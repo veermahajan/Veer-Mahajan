@@ -1,71 +1,101 @@
-html{
-margin:0;
-padding:0;
-background-color:#211865;
-}
-body{
-margin:0;
-padding:0;
-}
-h1{
-text-align:center;
-color:white;
-font-family:'Times New Roman', Times, serif;
-}
-#secondHeader{
-background-color:white;
-text-align:center;
-margin:0;
-padding:0;
-font-size:18px;
-}
-header{
-margin:0;
-padding:0;
-}
-#head{
-background-color:red;
-margin:0;
-padding:0;
-}
-#button1{
-color:black;
-background-color:green;
-text-align:center;
-}
-#button2{
-color:black;
-background-color:red;
-text-align:center;	
-}
-#button3{
-color:black;
-background-color:blue;
-text-align:center;	
-}
-#button4{
-color:black;
-background-color:purple;
-text-align:center;
-}
-button{
-border:none;
-border-radius:3px;
-font-size:18px;
-font-family:Georgia, 'Times New Roman', Times, serif;
-}
-p{
-margin:5px;
-padding:5px;
-color:white;
-font-size:16px;
-font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-text-shadow:1px 1px black;
-}
-#buttons{
-text-align:center;
-font-size:18px;
-background-color:white;
-margin:0;
-padding:0;
-}
+      .embed{
+      border:1px solid black; 
+      margin-right:18px;
+      margin-bottom:1px;
+      float:bottom;
+      }
+		  #intro {color: red; background-color: white;	   text-align: center;
+			font-size: 4em;}
+	  	body{
+      line-height: 1.6em;
+      margin-bottom:20px;
+      margin-right:20px;
+      margin-left:20px;
+			border-bottom: 8px dashed red;
+			padding: 5px;}
+	  	h1 {font-family: "Serif";
+			font-size: 2.7em;}
+      #gut-body{
+      line-height:1.8em;
+      margin:12px;}
+      #me{
+      float:left;
+      margin-right:12px;
+      }
+		  h6{
+			font-size: 14px;
+			font-family: sans-serif;
+      margin-bottom:13px;
+      float:top;
+      }
+      .Intro{
+      float:none;
+      font-size:15px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+		  a {
+			text-decoration: none;
+			color: rgb(25, 25, 132);
+			text-weight: bold;}
+		  p {font-family: "Georgia", serif;}
+      #gut{float:left;margin:12px;border:3px ridge red; padding:6px;}
+      #some-ways{
+      font-family:"Georgia", serif;
+      font-size:20px;}
+      #showcase {
+			color: red;
+      text-align:center;}
+	  	#lung-anatomy{
+			color: red;
+      text-align:center;}
+		  #prealgebra {
+			color: red;
+      text-align:center;}
+      #ancient_egypt{
+      color:red;
+      text-align:center;}
+		  #wellbeing {
+			color: red;
+      text-align:center;}
+		  #algebraI {
+			color: red;
+      text-align:center;}
+      #antibiotics{float:right;
+      padding:6px;
+      border:3px ridge red;
+      margin:6px;}
+      #restrict{font-size:10px;}
+		  h2{color: black;}
+	  	#physics-intro{
+      color: red;
+      text-align:center;}
+  		#multiplication{
+      color: red;
+      text-align:center;}
+      #gut-microbiome{
+      color:red;
+      text-align:center;}
+	  	.footer{
+			text-align: center;
+			background-color: rgb(243, 255, 255, 0.822);
+			clear: both;
+      margin:10px;}
+      #header{
+      position:fixed;
+      margin-left:6%;
+      margin-right:6%;
+      width:80%;
+      background-color:rgba(243, 255, 255, 0.822);
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color:black;
+      margin-top:0%;
+      }
+      button{
+      border:none;
+      float:left;
+      color:red;
+      background-color:white;
+      font-size:15px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      text-weight:bold;
+      }
